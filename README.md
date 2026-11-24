@@ -1,5 +1,7 @@
 # 🧮 C++ Command-Line Calculator
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/himanishankar/cpp-calculator)
+
 A clean, robust, and lightweight command-line calculator built to perform essential arithmetic calculations efficiently. Designed with a focus on robust input handling, clean code practices, and seamless user interaction.
 
 ---
